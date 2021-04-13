@@ -1,4 +1,3 @@
-import os
 from secrets import parameters, twilio_creditials
 import requests
 from twilio.rest import Client
